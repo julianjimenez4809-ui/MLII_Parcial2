@@ -1,0 +1,6 @@
+etapa,n,pct
+Total registros hospitalarios crudos,101766,100.0
+Primer encuentro por paciente único (descarte sesgo reingreso),71518,70.28
+Conjunto de desarrollo (80% partición reproducible),57214,56.22
+Muestra de trabajo experimental (desarrollo),6000,5.9
+Conjunto de test temporal/independiente (congelado),1500,1.47

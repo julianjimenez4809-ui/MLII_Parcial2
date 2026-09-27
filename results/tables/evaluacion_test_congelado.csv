@@ -1,0 +1,3 @@
+modelo,hiperparametros,metrica_test,valor
+GMM,"K=6, full",Log-Likelihood media,-5.337598643591578
+KDE,h=0.3,Log-Densidad media,-5.175514212959309

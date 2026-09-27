@@ -1,0 +1,12 @@
+- PASO 1: CARGA Y AUDITORIA
+Desarrollo cargado: 6.000 registros. Variables: time_in_hospital, num_medications.
+--------------------------------------------------------------------------------
+- PASO 2: OPTIMIZACION GMM
+Mejor GMM: K=6, covarianza=full, BIC=64149.86, Silueta=0.1683.
+--------------------------------------------------------------------------------
+- PASO 3: OPTIMIZACION KDE
+Mejor KDE: kernel=gaussian, h=0.2, Log-densidad media=-4.8019.
+--------------------------------------------------------------------------------
+- PASO 4: OPTIMIZACION DBSCAN
+Sensibilidad calculada en datos estandarizados. Evaluadas 30 combinaciones de hiperparámetros.
+--------------------------------------------------------------------------------

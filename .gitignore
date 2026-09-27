@@ -1,0 +1,35 @@
+# Entornos virtuales y temporales de Python
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+scratch/
+
+# Cuadernos y recursos de referencia de la cátedra (no son del parcial)
+notebooks/semana-08/
+notebooks/docente/
+
+# Datos crudos del profesor (evitar subir archivos pesados de datos a GitHub)
+data/
+
+# Metadatos del sistema, IDE y Windows (WSL)
+*:Zone.Identifier
+.DS_Store
+.vscode/
+.idea/
+
+# Archivos de log intermedios y temporales TeX/LaTeX
+*.log
+*.aux
+*.tex
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Duplicados de compilación o reportes intermedios
+reports/figures/
